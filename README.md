@@ -26,7 +26,7 @@ sudo dnf install curl
 
 
 ## Setup script
-Download and run the setup script with
+Download and run the setup script with:
 ```
 curl -L https://aka.ms/gcm/linux-install-source.sh | sh
 git-credential-manager configure
@@ -38,7 +38,7 @@ Choose credential store with:
 git config --global credential.credentialStore gpg
 ```
 
-Generate a new key pair with
+Generate a new key pair with:
 ```
 gpg --gen-key
 ```
