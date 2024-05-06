@@ -64,7 +64,7 @@ Then, initialize your keys with:
 pass init your.email@address.com
 ```
 
-You will now get a pop-up allowing you to authenticate with your browser
+Done!
 
 
 
